@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=(https://www.linkedin.com/in/salmanalyy/)
+<a href=<p>(https://www.linkedin.com/in/salmanalyy/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
